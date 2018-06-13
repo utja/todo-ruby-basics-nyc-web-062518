@@ -10,7 +10,7 @@ def argue(x)
   return x
 end
 
-def greeting
+def greeting(greetings, name)
 
 end
 
